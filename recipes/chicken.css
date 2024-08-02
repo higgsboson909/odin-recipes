@@ -1,5 +1,5 @@
 body{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1,
@@ -15,4 +15,5 @@ h1{
 
 h3{
     background-color: salmon;
+    font-size: 25px;
 }
