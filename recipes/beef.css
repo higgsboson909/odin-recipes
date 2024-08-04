@@ -4,6 +4,7 @@
     padding: 0px;
     border: 0px;
     box-sizing: border-box;
+    margin: 0px;
 }
 
 h1{
@@ -28,12 +29,12 @@ h3{
 img{
     height: 430px;
     width: auto;
-    margin: 10px 0px 10px 10px;
+    margin: 10px 0px 10px 25px;
 }
 
 li{
     
-    margin-left: 20px;
+    margin-left: 25px;
     margin-bottom: 10px;
 }
 
