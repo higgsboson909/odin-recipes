@@ -47,7 +47,7 @@ p{
 }
 
 .subH1,
-.subH3{
+.subH2{
     width: 200px;
     height: 30px;
     margin-top: 30px;
@@ -58,4 +58,6 @@ p{
 .subH3{
     width: 120px;
     height: 30px;
+    margin-left: auto;
+    margin-right: auto;
 }
