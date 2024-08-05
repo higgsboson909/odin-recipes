@@ -29,10 +29,7 @@ h3{
     
     background-color: seagreen;
     font-size: 25px;
-    width: 200px;
-    margin-top: 30px;
-    margin-left: auto;
-    margin-right: auto;
+
     margin-bottom: 5px;
 }
 
@@ -49,6 +46,16 @@ p{
     
 }
 
+.subH1,
+.subH3{
+    width: 200px;
+    height: 30px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .subH3{
     width: 120px;
+    height: 30px;
 }
