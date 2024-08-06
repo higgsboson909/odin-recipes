@@ -8,7 +8,7 @@
 }
 
 h1{
-    width: 300px;
+    width: 350px;
     height: 70px;
     background-color: #449649;
     padding: 10px;
@@ -22,27 +22,34 @@ h1{
 }
 
 img{
-    margin-left: 20px;
+    margin-left: 25px;
     margin-bottom: 30px;
 }
 
 li{
-    margin-left: 20px;
+    margin-left: 25px;
     margin-bottom: 5px;
+    margin-right: 25px;
 }
 
 p{
-    margin-left: 20px;
+    margin-left: 25px;
+    margin-right: 25px;
 }
 
 h3{
-    margin-left: 20px;
+    margin-left: 25px;
     margin-bottom: 10px;
     margin-top: 20px;
-    width: 150px;
-    height: 70px;
+    width: 130px;
+    height: 40px;
     background-color: #449649;
-    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     color: white;
+    text-align: center;
+}
 
+.subH3{
+    width: 90px;
 }
