@@ -26,3 +26,40 @@ img{
     margin-left: 20px;
     margin-bottom: 30px;
 }
+
+li{
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+a{
+    color: white;
+    background-color: #2C2727;
+    text-align: center;
+    
+}
+.chicken{
+    width: 125px;
+    background-color: #2C2727;
+    height: 35px;
+    padding: 6px;
+
+    
+}
+
+
+.beef{
+    width: 187px;
+    background-color: #2C2727;
+    height: 35px;
+    padding: 6px;   
+}
+
+.lassi{
+    width: 201px;
+    background-color: #2C2727;
+    height: 35px;
+    padding: 6px;   
+}
+
+
